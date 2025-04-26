@@ -28,11 +28,11 @@
 
 ### UI/UX
 
-![Screenshot 1](https://play-lh.googleusercontent.com/KzH1y_6dRCxVjNJOytKTaAu7wohA0EDQ6yEyxo-OOtCdn6cDfLP-D-j2tmPAkOdiyi0=w2560-h1440-rw)
-![Screenshot 2](https://play-lh.googleusercontent.com/JHjCmzOSZ1heWZUHZQJoMTxMjNDCTZDN-NNH41TGuWU21s75OHm0GkB6XybEq107tyHw=w2560-h1440-rw)
-![Screenshot 3](https://play-lh.googleusercontent.com/I4F5qshdl074GM6JGFl5iw32Qr87ZJwTHvoVydDWg3IrgC03hmw9qzzop0zN6m9gUAM=w2560-h1440-rw)
-![Screenshot 4](https://play-lh.googleusercontent.com/HXJ230hAPNQ1dzwsp95pYn8BEtBmpjYA_CraLRlmk_rSfbV3SK-VBARBsXOHrVk0hkk=w2560-h1440-rw)
-![Screenshot 5](https://play-lh.googleusercontent.com/kh5p1yxP12i4cVI9AJUkd2FtujI7dH4GxWhNb7_6Mj3dAJtU1BYsDhnbOvs9SV41ISY=w2560-h1440-rw)
+![Screenshot 1](https://play-lh.googleusercontent.com/6ZiPZaEtOliHG4CqKl6glEebvJIWIeIoIZycEVYxxgel379t9-HEMU2PSk8IkSZGGMI=w2560-h1440-rw)
+![Screenshot 2](https://play-lh.googleusercontent.com/TQAmzLwrGBoWjLL9e2OY0IvbR4AseB3s2TRxRfSrOlc6ILEqp2V6EXCJDM9tG_OhUxg=w2560-h1440-rw)
+![Screenshot 3](https://play-lh.googleusercontent.com/3MH9EPp0dClDYA3MHXmcSCgR9zUOtZN-jSaS-GUauYCAfM6rGlEuvERM86jEQJfdiIU=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/bPZL7PiRgQsTTG8RY9bpTUm08_wuCxPFnxow2Rpa09BiHOQGzq1XNLlvh5teY--R0Gg=w2560-h1440-rw)
+![Screenshot 5](https://play-lh.googleusercontent.com/znrT-d0356wqkYFuABVI7KUlDfbhWuAIB_500JYz09olYEAnmx1fDjC8Ft6r_BaTERLX=w2560-h1440-rw)
 
 ### Code Structure
 
